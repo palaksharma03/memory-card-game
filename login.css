@@ -1,0 +1,13 @@
+
+body {
+    background-image:url(OIP\ \(1\).jpg) ;
+     background-position: left;
+    background-attachment: fixed;
+    background-size: contain;
+    justify-content: right;
+    display: flex;
+    align-items: right;
+    margin: 0;
+    height: 1%;
+
+}
